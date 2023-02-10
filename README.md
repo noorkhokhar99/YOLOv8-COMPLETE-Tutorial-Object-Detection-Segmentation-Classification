@@ -28,8 +28,10 @@ pip install -r requirements.txt
 
  - Run for webcam
  
-`python3 test.py`
+`python test.py`
 
+`python predict.py model=yolov8l.pt source="test3.mp4" show=True
+`
 
 <p align="center">
 <img src="https://github.com/noorkhokhar99/YOLOv8-COMPLETE-Tutorial-Object-Detection-Segmentation-Classification/blob/main/figure2.png">
