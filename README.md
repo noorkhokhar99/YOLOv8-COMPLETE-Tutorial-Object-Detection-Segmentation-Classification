@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 
 <p align="center">
-<img src="https://github.com/noorkhokhar99/MediaPipe-3d-Object/blob/main/Blue%20Halftone%20Secret%20Tips%20Social%20Media%20Tutorial%20YouTube%20Thumbnail%20(1).png">
+<img src="https://github.com/noorkhokhar99/YOLOv8-COMPLETE-Tutorial-Object-Detection-Segmentation-Classification/blob/main/figure2.png">
 </p>
 
 
